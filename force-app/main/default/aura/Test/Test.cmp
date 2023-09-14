@@ -1,0 +1,8 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,forceCommunity:availableForAllPageTypes,force:lightningQuickAction" access="global" >
+	<div>
+    
+    	<p>
+        	Record Id =  {!v.recordId}
+        </p>
+    </div>
+</aura:component>
